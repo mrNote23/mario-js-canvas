@@ -1,15 +1,13 @@
-# 🚀 Welcome to your new awesome project!
-
-This project has been created using **webpack-cli**, you can now run
+# Пародия на игру Mario при изучении Canvas
 
 ```
-npm run build
+npm install
+npm run serve
+http://localhost:8080
 ```
 
-or
+### Управление
 
-```
-yarn build
-```
-
-to bundle your application
+- `Left`, `a` - Влево
+- `Right`, `d` - Вправо
+- `Up`, `w`, `space` - Прыжок
